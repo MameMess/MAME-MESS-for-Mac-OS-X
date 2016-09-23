@@ -9,7 +9,7 @@ MAME/MESS for Mac OS X - 64-bit Intel
 
 Setup:
 ======= 
-* Drag MAME64 Files To Your Documents Folder.
+* Drag SDLMAME Files To Your Documents Folder.
 
 ```elixir
 /Users/macname/Documents/mame/artwork
