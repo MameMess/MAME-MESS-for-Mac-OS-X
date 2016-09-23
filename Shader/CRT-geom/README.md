@@ -1,6 +1,6 @@
 CRT-gnome SHADERS SETUP
 
-![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/CRT-geom/image.jpeg?raw=true "Screenshot")
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/CRT-geom/image.png?raw=true "Screenshot")
 
 * Add the following lines to the bottom of your mame.ini
 
