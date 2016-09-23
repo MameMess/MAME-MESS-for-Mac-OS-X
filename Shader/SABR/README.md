@@ -1,5 +1,7 @@
 SBAR SHADERS SETUP
 
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/SBAR/image.jpeg?raw=true "Screenshot")
+
 * Add the following lines to the bottom of your mame.ini
 
 ```elixir
