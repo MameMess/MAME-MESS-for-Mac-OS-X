@@ -9,7 +9,7 @@ MAME/MESS for Mac OS X - 64-bit Intel
 
 Setup:
 ======= 
-Drag MAME64 Files To Your Documents Folder.
+* Drag MAME64 Files To Your Documents Folder.
 
 ```elixir
 Documents/mame/artwork
@@ -20,10 +20,10 @@ Documents/mame/artwork
                hlsl
                mame
 ```
-SLD
+* SLD
 ```elixir
 Library/Frameworks
 ```
 
 * Note: 
-it is only shortcut of the roms to run games in steam for example.
+It is only shortcut of the roms to run games in steam for example.
