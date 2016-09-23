@@ -12,9 +12,13 @@ Setup:
 Drag MAME64 Files To Your Documents Folder.
 
 ```elixir
-Documents/mame/mame
-               Ini
-
+Documents/mame/artwork
+               bgfx
+               cfg
+               docs
+               hash
+               hlsl
+               mame
 ```
 SLD
 ```elixir
