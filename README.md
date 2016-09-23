@@ -35,5 +35,6 @@ Setup:
 Macintosh/Library/Frameworks/SDL2.framework
 ```
 
-* Note: 
-It is only shortcut of the roms to run games in steam for example.
+Note: 
+* macname your username (log in account).
+* It is only shortcut of the roms to run games in steam for example.
