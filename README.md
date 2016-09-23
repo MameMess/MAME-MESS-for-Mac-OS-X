@@ -39,4 +39,4 @@ Note:
 * macname your username (log in account).
 * It is only shortcut of the roms to run games in steam for example.
 
-![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/MAME.png?raw=true "Screenshot")
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/steam.png?raw=true "Screenshot")
