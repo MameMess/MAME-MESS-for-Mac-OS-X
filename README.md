@@ -5,3 +5,4 @@ MAME/MESS for Mac OS X - 64-bit Intel
 
 
 * SDLmame ([Download](http://sdlmame.lngn.net))
+* SDL ([Download](http://www.libsdl.org))
