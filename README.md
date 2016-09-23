@@ -12,7 +12,7 @@ Setup:
 Drag MAME64 Files To Your Document Folder.
 
 ```elixir
-Document/mame/mame
+Documents/mame/mame
 
 ```
 SLD
