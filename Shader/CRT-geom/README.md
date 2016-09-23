@@ -1,5 +1,7 @@
 CRT-gnome SHADERS SETUP
 
+![alt text](http://www.revista.espiritolivre.org/wp-content/uploads/2016/03/mame-logo.png "Screenshot")
+
 * Add the following lines to the bottom of your mame.ini
 
 ```elixir
