@@ -12,3 +12,4 @@ glsl_shader_mame1         /Users/macname/Documents/mame/shader/CRT-geom/CRT-geom
 ```
 
 * Note: macname your username.
+
