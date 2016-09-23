@@ -13,22 +13,22 @@ Setup:
 
 ```elixir
 /Users/macname/Documents/mame/artwork
-               bgfx
-               cfg
-               docs
-               hash
-               hlsl
-               ini
-               keymaps
-               language
-               LICENSE.md
-               mame
-               plugins
-               README.md
-               samples
-               tools
-               uismall.bdf
-               whatsnew.txt
+                              bgfx
+                              cfg
+                              docs
+                              hash
+                              hlsl
+                              ini
+                              keymaps
+                              language
+                              LICENSE.md
+                              mame
+                              plugins
+                              README.md
+                              samples
+                              tools
+                              uismall.bdf
+                              whatsnew.txt
 ```
 * Drag SDL2.framework Files To Your Frameworks Folder.
 ```elixir
