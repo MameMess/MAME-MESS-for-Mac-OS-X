@@ -22,7 +22,7 @@ Documents/mame/artwork
 ```
 * SLD
 ```elixir
-Library/Frameworks
+Macintosh/Library/Frameworks/SDL2.framework
 ```
 
 * Note: 
