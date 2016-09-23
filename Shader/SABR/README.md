@@ -1,7 +1,5 @@
 SBAR SHADERS SETUP
 
-![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/SABR/image.png?raw=true "Screenshot")
-
 * Add the following lines to the bottom of your mame.ini
 
 ```elixir
@@ -12,3 +10,5 @@ glsl_shader_mame1         /Users/macname/Documents/mame/shader/SABR/sabr
 ```
 
 * Note: macname your username.
+
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/SABR/SABR.png?raw=true "Screenshot")
