@@ -1,5 +1,6 @@
 SBAR SHADERS SETUP
 
+* Add the following lines to the bottom of your mame.ini
 
 ```elixir
 gl_glsl                   1
