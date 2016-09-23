@@ -12,13 +12,23 @@ Setup:
 * Drag MAME64 Files To Your Documents Folder.
 
 ```elixir
-Documents/mame/artwork
+/Users/macname/Documents/mame/artwork
                bgfx
                cfg
                docs
                hash
                hlsl
+               ini
+               keymaps
+               language
+               LICENSE.md
                mame
+               plugins
+               README.md
+               samples
+               tools
+               uismall.bdf
+               whatsnew.txt
 ```
 * Drag SDL2.framework Files To Your Frameworks Folder.
 ```elixir
