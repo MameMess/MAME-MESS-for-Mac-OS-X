@@ -20,7 +20,7 @@ Documents/mame/artwork
                hlsl
                mame
 ```
-* SLD
+* Drag SDL2.framework Files To Your Frameworks Folder.
 ```elixir
 Macintosh/Library/Frameworks/SDL2.framework
 ```
