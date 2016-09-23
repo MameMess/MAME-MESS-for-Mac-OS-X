@@ -7,8 +7,8 @@ CRT-gnom SHADERS SETUP
 ```elixir
 gl_glsl                   1
 gl_glsl_filter            1
-glsl_shader_mame0         /Users/macname/Documents/mame/osd/shader/glsl_plain
-glsl_shader_mame1         /Users/macname/Documents/mame/osd/CRT-geom/CRT-geom
+glsl_shader_mame0         /Users/macname/Documents/mame/shader/shader/glsl_plain
+glsl_shader_mame1         /Users/macname/Documents/mame/shader/CRT-geom/CRT-geom
 ```
 
 * Note: macname your username.
