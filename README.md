@@ -1,7 +1,7 @@
 MAME/MESS for Mac OS X - 64-bit Intel
 =======
 
-![alt text](http://www.revista.espiritolivre.org/wp-content/uploads/2016/03/mame-logo.png "Screenshot")
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/MAME.png?raw=true "Screenshot")
 
 
 * SDLmame ([Download](http://sdlmame.lngn.net))
