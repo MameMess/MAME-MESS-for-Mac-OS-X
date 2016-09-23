@@ -6,3 +6,11 @@ MAME/MESS for Mac OS X - 64-bit Intel
 
 * SDLmame ([Download](http://sdlmame.lngn.net))
 * SDL ([Download](http://www.libsdl.org))
+
+Setup 
+Drag MAME64 Files To Your Document Folder 
+
+```elixir
+Document/mame/mame
+
+```
