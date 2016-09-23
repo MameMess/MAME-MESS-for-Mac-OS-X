@@ -15,9 +15,7 @@ Drag MAME64 Files To Your Document Folder
 Document/mame/mame
 
 ```
-=======
 SLD
-=======
 ```elixir
 Library/Frameworks
 ```
