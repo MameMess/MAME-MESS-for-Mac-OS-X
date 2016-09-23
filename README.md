@@ -13,6 +13,7 @@ Drag MAME64 Files To Your Documents Folder.
 
 ```elixir
 Documents/mame/mame
+               Ini
 
 ```
 SLD
