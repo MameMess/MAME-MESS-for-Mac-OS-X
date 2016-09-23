@@ -1,7 +1,5 @@
 Lottes_CRT SHADERS SETUP
 
-![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/Lottes_CRT/image.png?raw=true "Screenshot")
-
 * Add the following lines to the bottom of your mame.ini
 
 ```elixir
@@ -12,3 +10,5 @@ glsl_shader_mame1         /Users/macname/Documents/mame/shader/Lottes_CRT/Lottes
 ```
 
 * Note: macname your username.
+
+![alt text](https://github.com/MameMess/MAME-MESS-for-Mac-OS-X/blob/master/Shader/Lottes_CRT/Lottes_CRT.png?raw=true "Screenshot")
