@@ -7,8 +7,8 @@ SBAR SHADERS SETUP
 ```elixir
 gl_glsl                   1
 gl_glsl_filter            1
-glsl_shader_mame0         /home/user/macname/Documents/mame/shader/shader/glsl_plain
-glsl_shader_mame1         /home/user/macname/Documents/mame/shader/SBAR/sbar
+glsl_shader_mame0         /Users/macname/Documents/mame/shader/shader/glsl_plain
+glsl_shader_mame1         /Users/macname/Documents/mame/shader/SABR/sabr
 ```
 
 * Note: macname your username.
